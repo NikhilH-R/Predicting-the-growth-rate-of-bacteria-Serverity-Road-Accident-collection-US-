@@ -1,1 +1,14 @@
 This repository contains two applied machine learning projects. The first predicts accident severity using the FARS dataset through supervised classification. It compares Logistic Regression and Histogram Gradient Boosting pipelines, applying imputation, encoding, stratified cross-validation, and imbalance-aware metrics such as macro F1 and balanced accuracy. Results highlight the advantage of non-linear models for complex structured data. The second project implements retinal cyst segmentation in synthetic OCT images using classical computer vision techniques, including CLAHE enhancement, Gaussian filtering, thresholding, morphological operations, Canny edge detection, and Hough transforms, evaluated using Dice, IoU, sensitivity, and accuracy metrics.
+Project Implementation Steps
+├── accident_severity/
+│   ├── fars.csv
+│   ├── model_pipeline.py
+│   ├── results/
+│   └── README.md
+│
+├── retinal_segmentation/
+│   ├── segmentor.py
+│   ├── outputs/
+│   └── README.md
+│
+└── main_README.md
