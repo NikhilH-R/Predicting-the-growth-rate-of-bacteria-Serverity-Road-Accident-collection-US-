@@ -1,0 +1,2 @@
+# Predicting-the-growth-rate-of-bacteria-Serverity-Road-Accident-collection-US-
+This RepositoryincludestwoML projectsData sets 1 report import cv2 project accident severity prediction using FARS data withLogisticRegressionandGradient Boosting(stratified validation, macro F1, balanced accuracy), and retinal cyst segmentationinsyntheticOCT imagesusingCLAHE,thresholding,morphology,andedge detection,evaluatedwithDiceandIoUmetrics.
